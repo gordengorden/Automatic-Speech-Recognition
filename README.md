@@ -1,4 +1,6 @@
-# myrepo
+# Automatic Speech Recognition
+
+A FastAPI set up for ASR (Automatic Speech Recognition) using wav2vec2-large-960h-cv
 
 ## Initial Setup
 ## Running with Docker
